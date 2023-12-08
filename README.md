@@ -57,7 +57,7 @@
 
 ## About me
 
-- 🎨 MERN developer who loves React, Express and Mongoose.
+- 🎨 Web developer who loves React, Express and Mongoose.
 
 - 🌱 I’m currently learning Typescript.
 - 🔭 I’m currently working on my-book-list
@@ -74,6 +74,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahfoysal&repo=Healthify-Client-Code-MERN&theme=dracula" />
 </a>
 <br />
+<br />
 
 <a href="https://github.com/ahfoysal/Jobify-Client-Code-MERN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahfoysal&repo=Jobify-Client-Code-MERN&theme=dracula" />
@@ -86,4 +87,5 @@
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/ahfoysal/)
+&nbsp;
 [<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=7289d9" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://discordapp.com/users/1017503970102628463)
