@@ -51,7 +51,7 @@
 ## 📊 Overall Stats
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahfoysal&show_icons=true&include_all_commits=false&theme=dracula&hide_border=true&hide=stars,contribs" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahfoysal&layout=compact&theme=dracula&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahfoysal&show_icons=true&include_all_commits=false&theme=dracula&hide_border=true&hide=stars,contribs" alt="Anurag's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahfoysal&layout=compact&theme=dracula&hide_border=true" />
 
 </div>
 
