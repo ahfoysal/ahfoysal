@@ -58,14 +58,14 @@
 ## About me
 
 - 🎨 Web developer who loves React, Express and Mongoose.
-
+  -💻 Mostly do MERN stack projects.
 - 🌱 I’m currently learning Typescript.
 - 🔭 I’m currently working on my-book-list
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ahfoysal/)
 
 ## 🔝 Top Repositories
 
-<p align="center">
+<div align="center">
 <a href="https://github.com/ahfoysal/ChatCord-Client-Next.js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahfoysal&repo=ChatCord-Client-Next.js&theme=dracula" />
 </a>
@@ -73,16 +73,8 @@
 <a href="https://github.com/ahfoysal/Healthify-Client-Code-MERN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahfoysal&repo=Healthify-Client-Code-MERN&theme=dracula" />
 </a>
-<br />
-<br />
 
-<a href="https://github.com/ahfoysal/Jobify-Client-Code-MERN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahfoysal&repo=Jobify-Client-Code-MERN&theme=dracula" />
-</a>
-</p>
-
-<br />
-<br />
+</div>
 
 ## 🔍  Where to find me
 
