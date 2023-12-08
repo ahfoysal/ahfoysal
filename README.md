@@ -33,7 +33,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahfoysal&repo=Healthify-Client-Code-MERN&theme=dracula" />
 </a>
 <br />
-<br />
 
 <a href="https://github.com/ahfoysal/Jobify-Client-Code-MERN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahfoysal&repo=Jobify-Client-Code-MERN&theme=dracula" />
