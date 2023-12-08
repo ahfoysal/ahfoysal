@@ -25,4 +25,6 @@
 
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahfoysal&theme=neon-dark)](https://git.io/streak-stats)
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ahfoysal&theme=darcula&hide_border=true" />
+</p>
