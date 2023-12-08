@@ -78,4 +78,4 @@
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/ahfoysal/)
-[<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/ahfoysal/)
+[<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=7289d9" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://discordapp.com/users/1017503970102628463)
