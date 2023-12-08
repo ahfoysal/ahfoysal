@@ -9,9 +9,17 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </p>
 
+#### Current Stats
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ahfoysal&theme=material-palenight&hide_border=true" />
+</p>
+
+#### Overall Stats
+
 <p align="center">
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahfoysal&show_icons=true&include_all_commits=false&theme=dracula&hide_border=true&hide=stars,contribs" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahfoysal&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 </p>
 
 #### Top Repositories
@@ -24,6 +32,8 @@
 <a href="https://github.com/ahfoysal/Healthify-Client-Code-MERN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahfoysal&repo=Healthify-Client-Code-MERN&theme=dracula" />
 </a>
+<br />
+
 <a href="https://github.com/ahfoysal/Jobify-Client-Code-MERN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahfoysal&repo=Jobify-Client-Code-MERN&theme=dracula" />
 </a>
@@ -31,7 +41,3 @@
 
 <br />
 <br />
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ahfoysal&theme=material-palenight&hide_border=true" />
-</p>
