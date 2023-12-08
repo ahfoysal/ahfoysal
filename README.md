@@ -55,6 +55,14 @@
 
 </div>
 
+## About me
+
+- 🎨 MERN developer who loves React, Express and Mongoose.
+
+- 🌱 I’m currently learning Typescript.
+- 🔭 I’m currently working on my-book-list
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ahfoysal/)
+
 ## 🔝 Top Repositories
 
 <p align="center">
