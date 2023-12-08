@@ -17,10 +17,10 @@
 
 #### Overall Stats
 
-<p align="center">
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahfoysal&show_icons=true&include_all_commits=false&theme=dracula&hide_border=true&hide=stars,contribs" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahfoysal&layout=compact&theme=dracula&hide_border=true" /></a> |
+<div align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahfoysal&show_icons=true&include_all_commits=false&theme=dracula&hide_border=true&hide=stars,contribs" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahfoysal&layout=compact&theme=dracula&hide_border=true" /></a>
 
-</p>
+</div>
 
 #### Top Repositories
 
@@ -32,6 +32,7 @@
 <a href="https://github.com/ahfoysal/Healthify-Client-Code-MERN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahfoysal&repo=Healthify-Client-Code-MERN&theme=dracula" />
 </a>
+<br />
 <br />
 
 <a href="https://github.com/ahfoysal/Jobify-Client-Code-MERN">
