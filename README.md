@@ -42,20 +42,20 @@
 
 [tech_tools_anchor]: #bonjour--
 
-## Current Stats
+## 📈 Current Stats
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ahfoysal&theme=material-palenight&hide_border=true" />
 </p>
 
-## Overall Stats
+## 📊 Overall Stats
 
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahfoysal&show_icons=true&include_all_commits=false&theme=dracula&hide_border=true&hide=stars,contribs" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahfoysal&layout=compact&theme=dracula&hide_border=true" /></a>
 
 </div>
 
-## Top Repositories
+## 🔝 Top Repositories
 
 <p align="center">
 <a href="https://github.com/ahfoysal/ChatCord-Client-Next.js">
