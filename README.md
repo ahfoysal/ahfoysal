@@ -63,6 +63,8 @@ I build web apps, REST APIs, and real-time features.
 &nbsp;
 [<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma" title="Figma" height="25" />][tech_tools_anchor]
 
+[tech_tools_anchor]: #technologies-and-tools
+
 ## Current Stats
 
 <p align="center">
