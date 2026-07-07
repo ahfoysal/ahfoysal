@@ -70,7 +70,6 @@ I build web apps, REST APIs, and real-time features.
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ahfoysal&theme=material-palenight&hide_border=true" />
 </p>
-[Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ahfoysal)
 
 ## Overall Stats
 
