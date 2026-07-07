@@ -1,6 +1,4 @@
-<div style="display: block">
-    <img src="https://komarev.com/ghpvc/?username=ahfoysal&&style=flat-square" />
-</div>
+
 <p align="center"><a href="https://ahfoysal.vercel.app/"><img width="100%" alt="Hello, I'm Foysal." src="./assets/gh-readme-header.png" /></a></p>
 
 <p align="center">
@@ -97,3 +95,6 @@ I build web apps, REST APIs, and real-time features.
 [<img src="https://img.shields.io/badge/Portfolio-282C34?logo=vercel&logoColor=FFFFFF" alt="Portfolio" title="Portfolio" height="25" />](https://ahfoysal.vercel.app)
 &nbsp;
 [<img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=7289d9" alt="Discord" title="Discord" height="25" />](https://discordapp.com/users/1017503970102628463)
+<div style="display: block">
+    <img src="https://komarev.com/ghpvc/?username=ahfoysal&&style=flat-square" />
+</div>
