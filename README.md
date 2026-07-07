@@ -1,3 +1,6 @@
+<div style="display: block">
+    <img src="https://komarev.com/ghpvc/?username=ahfoysal&&style=flat-square" />
+</div>
 <p align="center"><a href="https://ahfoysal.vercel.app/"><img width="100%" alt="Hello, I'm Foysal." src="./assets/gh-readme-header.png" /></a></p>
 
 <p align="center">
