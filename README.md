@@ -105,3 +105,5 @@ I build web apps, REST APIs, and real-time features.
 - **[Optiland](https://github.com/optiland/optiland/pull/667)** — Contributed multiple numerical-computing and visualization fixes covering autodiff indexing, annular lenses, and curvature solving.
 - **[LibreDesk](https://github.com/abhinavxd/libredesk/pull/400)** — Improved ticket notification state after agent replies and status changes.
 - **[LeafWiki](https://github.com/perber/leafwiki/pull/1269)** — Added tree-based page renaming with link refactoring and a persistent stacked editor-preview layout.
+
+[**More merged contributions →**](https://github.com/search?q=is%3Apr+author%3Aahfoysal+is%3Amerged+-user%3Aahfoysal&type=pullrequests)
