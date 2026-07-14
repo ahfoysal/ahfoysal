@@ -99,11 +99,11 @@ I build web apps, REST APIs, and real-time features.
 ## Open-source contributions
 
 - **[Vercel Labs — Portless](https://github.com/vercel-labs/portless/releases/tag/v0.15.2)** — Contributed to the Tailscale funnel-routing fix for public `.ts.net` hostnames; officially credited in the v0.15.2 release.
-- **[Meta — Atryx](https://github.com/facebook/astryx/pull/3648)** — Fixed explicit font-size overrides in the React `Text` component, including theming support and regression tests.
-- **[Flipt](https://github.com/flipt-io/flipt/pull/6145)** — Built a UI for finding feature flags that reference a segment, making dependency cleanup safer.
-- **[Vizb](https://github.com/goptics/vizb/pull/195)** — Implemented built-in and custom color palettes with persistent preferences and reactive 2D/3D visualization support.
-- **[Optiland](https://github.com/optiland/optiland/pull/667)** — Contributed multiple numerical-computing and visualization fixes covering autodiff indexing, annular lenses, and curvature solving.
-- **[LibreDesk](https://github.com/abhinavxd/libredesk/pull/400)** — Improved ticket notification state after agent replies and status changes.
-- **[LeafWiki](https://github.com/perber/leafwiki/pull/1269)** — Added tree-based page renaming with link refactoring and a persistent stacked editor-preview layout.
+- **[Meta — Atryx](https://github.com/facebook/astryx)** — Fixed explicit font-size overrides in the React `Text` component, including theming support and regression tests. ([#3648](https://github.com/facebook/astryx/pull/3648))
+- **[Flipt](https://github.com/flipt-io/flipt)** — Built a UI for finding feature flags that reference a segment, making dependency cleanup safer. ([#6145](https://github.com/flipt-io/flipt/pull/6145))
+- **[Vizb](https://github.com/goptics/vizb)** — Implemented built-in and custom color palettes with persistent preferences and reactive 2D/3D visualization support. ([#192](https://github.com/goptics/vizb/pull/192) · [#195](https://github.com/goptics/vizb/pull/195))
+- **[Optiland](https://github.com/optiland/optiland)** — Contributed multiple numerical-computing and visualization fixes covering autodiff indexing, annular lenses, and curvature solving. ([#660](https://github.com/optiland/optiland/pull/660) · [#666](https://github.com/optiland/optiland/pull/666) · [#667](https://github.com/optiland/optiland/pull/667))
+- **[LibreDesk](https://github.com/abhinavxd/libredesk)** — Improved ticket notification state after agent replies and status changes. ([#400](https://github.com/abhinavxd/libredesk/pull/400))
+- **[LeafWiki](https://github.com/perber/leafwiki)** — Added tree-based page renaming with link refactoring and a persistent stacked editor-preview layout. ([#1269](https://github.com/perber/leafwiki/pull/1269) · [#1270](https://github.com/perber/leafwiki/pull/1270))
 
 [**More merged contributions →**](https://github.com/search?q=is%3Apr+author%3Aahfoysal+is%3Amerged+-user%3Aahfoysal&type=pullrequests)
