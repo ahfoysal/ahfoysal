@@ -1,6 +1,3 @@
-
-<p align="center"><a href="https://ahfoysal.vercel.app/"><img width="100%" alt="Hello, I'm Foysal." src="./assets/gh-readme-header.png" /></a></p>
-
 <p align="center">
 Full-stack developer working with TypeScript, Next.js, NestJS, and PostgreSQL.<br/>
 I build web apps, REST APIs, and real-time features.
@@ -98,3 +95,13 @@ I build web apps, REST APIs, and real-time features.
 <div style="display: block">
     <img src="https://komarev.com/ghpvc/?username=ahfoysal&&style=flat-square" />
 </div>
+
+## Open-source contributions
+
+- **[Vercel Labs — Portless](https://github.com/vercel-labs/portless/releases/tag/v0.15.2)** — Contributed to the Tailscale funnel-routing fix for public `.ts.net` hostnames; officially credited in the v0.15.2 release.
+- **[Meta — Atryx](https://github.com/facebook/astryx/pull/3648)** — Fixed explicit font-size overrides in the React `Text` component, including theming support and regression tests.
+- **[Flipt](https://github.com/flipt-io/flipt/pull/6145)** — Built a UI for finding feature flags that reference a segment, making dependency cleanup safer.
+- **[Vizb](https://github.com/goptics/vizb/pull/195)** — Implemented built-in and custom color palettes with persistent preferences and reactive 2D/3D visualization support.
+- **[Optiland](https://github.com/optiland/optiland/pull/667)** — Contributed multiple numerical-computing and visualization fixes covering autodiff indexing, annular lenses, and curvature solving.
+- **[LibreDesk](https://github.com/abhinavxd/libredesk/pull/400)** — Improved ticket notification state after agent replies and status changes.
+- **[LeafWiki](https://github.com/perber/leafwiki/pull/1269)** — Added tree-based page renaming with link refactoring and a persistent stacked editor-preview layout.
